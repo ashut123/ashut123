@@ -1,4 +1,4 @@
-![logo](https://github.com/ashut123/ashut123/blob/main/Computer%20Science%20egnieer.png)
+![logo](https://github.com/ashut123/ashut123/blob/main/Brown%20Grey%20Creative%20Modern%20Online%20Portfolio.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate frontend developer and software developer from India</h3>
 
