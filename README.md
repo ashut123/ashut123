@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/ashut123/ashut123/blob/main/gif.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashut123" alt="ashut123" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web development,Java**
 
@@ -22,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhammishra933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhammishra933" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ashutosh_mishr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutosh_mishr20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashumishra12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashumishra12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashutoshmishracse2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashutoshmishracse2020" height="30" width="40" /></a>
 </p>
@@ -35,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashut123&show_icons=true&locale=en" alt="ashut123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashut123&" alt="ashut123" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashut123&label=Profile%20views&color=0e75b6&style=flat" alt="ashut123" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashut123" alt="ashut123" /></a> </p>
+
