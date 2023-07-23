@@ -1,3 +1,4 @@
+![logo](https://github.com/ashut123/ashut123/blob/main/Computer%20Science%20egnieer.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate frontend developer and software developer from India</h3>
 
