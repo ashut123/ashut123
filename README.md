@@ -1,7 +1,7 @@
 ![logo](https://github.com/ashut123/ashut123/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
 
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate frontend developer and software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/ashut123/ashut123/blob/main/gif.gif">
 
