@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://github.com/ashut123/ashut123/blob/main/gif.gif">
 
 
-- 🌱 I’m currently learning **full stack web development,Java**
+- 🌱 I’m currently working as  **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashut123](https://github.com/ashut123)
 
-- 💬 Ask me about **html,css,javascript,Oops,Data structure and core java,figma**
+- 💬 Ask me about **Core Java,oops,Exception Handling,Collections Framework,Multithreading,jsp,servlet,JDBC,Hibernate,SpringMVC,Spring Boot,Postmain,Linux,RestAPis,html,css,Data structure **
 
 - 📫 How to reach me **ausu951@gmail.com**
 
