@@ -141,13 +141,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashut123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
+![Employee of Year](https://img.shields.io/badge/🥇_Employee_of_the_Year-Telemune-FFD700?style=for-the-badge)
+![8 Projects](https://img.shields.io/badge/🚀_8_Production_Projects-18_Months-00d2ff?style=for-the-badge)
+![2+ Years](https://img.shields.io/badge/⏱️_2%2B_Years-Production_Experience-7b2ff7?style=for-the-badge)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashut123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+![TCS](https://img.shields.io/badge/🎓_Certified-TCS_Youth_Program-FF9900?style=for-the-badge)
+![Wipro](https://img.shields.io/badge/☕_Certified-Wipro_Java_Full_Stack-6DB33F?style=for-the-badge)
+![IIT Kanpur](https://img.shields.io/badge/🐍_Certified-IIT_Kanpur_Python-3776AB?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/🤖_Built-Agentic_AI_Voicemail-412991?style=for-the-badge)
+![MCP Server](https://img.shields.io/badge/🦙_Built-MCP_Server_LLaMA_3.1-0467DF?style=for-the-badge)
+![Telecom](https://img.shields.io/badge/📡_Domain-Telecom_Backend_Expert-ff6b6b?style=for-the-badge)
 
 </div>
 
