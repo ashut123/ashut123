@@ -46,6 +46,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🤖 AI / GenAI / LLM
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -54,19 +56,59 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-7B2FF7?style=for-the-badge&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C9A7?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4785?style=for-the-badge&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-7B2FF7?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### 🗄️ Database & Protocols
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP/WSDL-FF5733?style=for-the-badge&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logoColor=white)
+![Diameter](https://img.shields.io/badge/Diameter_Protocol-6236FF?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashut123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ashut123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
+
+</div>
+
+---
+
+## 💻 My Tech Expertise
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-95%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-92%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-85%25-7B2FF7?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-75%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST/SOAP](https://img.shields.io/badge/REST/SOAP-90%25-009688?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-88%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
@@ -89,18 +131,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashut123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashut123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ashut123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashut123&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -111,16 +146,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashut123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashut123&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
